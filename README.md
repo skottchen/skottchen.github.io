@@ -1,2 +1,2 @@
 # my personal website
-skottchen.github.io -> scottchen.site
+skottchen.github.io -> www.scottchen.site
